@@ -493,7 +493,7 @@ ol {
 
 .hero-text {
     position: relative;
-    padding-left: 80px;
+    padding-left: 50px;
     max-width: 595px;
     z-index: 5;
 }
@@ -524,7 +524,7 @@ ol {
 }
 
 .hero-text h2 {
-    font-size: 80px;
+    font-size: 60px;
     color: #fff;
     margin-bottom: 30px;
     position: relative;
